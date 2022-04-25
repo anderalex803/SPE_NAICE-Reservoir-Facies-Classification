@@ -1,0 +1,2 @@
+# SPE_NAICE-Reservoir-Facies-Classification
+This study employed formation samples for facies classification using  Machine Learning techniques and classified different facies from well logs in seven (7) wells.  The log data were trained using supervised machine learning algorithms  to predict discrete facies groups. The analysis started with data preparation and examination where various features  of the available well data were conditioned.
